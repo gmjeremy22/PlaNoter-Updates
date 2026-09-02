@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "versionCode": 5,
-  "versionName": "0.4.0",
-  "apkUrl": "https://raw.githubusercontent.com/gmjeremy22/PlaNoter-Updates/main/PlaNoter-latest.apk?v=5",
-  "sha256": "2948a69665cd99c50b8a3265db2155e57d7b46444701eca551348b1bfca98512",
-  "sizeBytes": 179859,
-  "notes": "PlaNoter 안정성 및 기능 개선"
+  "versionCode": 6,
+  "versionName": "0.4.1",
+  "apkUrl": "https://raw.githubusercontent.com/gmjeremy22/PlaNoter-Updates/main/PlaNoter-latest.apk?v=6",
+  "sha256": "ba2f4e250e7de2766f696c6ee1199742ee820ec9e260edc41deaee382d307001",
+  "sizeBytes": 191551,
+  "notes": "상하단 안전 여백과 홈 화면 디자인을 개선했어요."
 }
