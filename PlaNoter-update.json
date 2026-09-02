@@ -1,0 +1,9 @@
+{
+  "schemaVersion": 1,
+  "versionCode": 4,
+  "versionName": "0.3.0",
+  "apkUrl": "https://raw.githubusercontent.com/gmjeremy22/PlaNoter-Updates/main/PlaNoter-latest.apk?v=4",
+  "sha256": "39378bd909155b384a131f9a235567cfbb4f00ee25598925b368dd2b2f1aca6d",
+  "sizeBytes": 179859,
+  "notes": "PlaNoter 안정성 및 기능 개선"
+}
